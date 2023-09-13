@@ -7,12 +7,13 @@ I hope you find this website informative and engaging!
 -----------------------------------------------------------
 
 Contact:
-I would love to connect with you and explore potential opportunities for collaboration. Feel free to reach out to me through the following channels:
 
-Email: wmau268@gmail.com
-LinkedIn: https://www.linkedin.com/in/william-mau-024504266/
-GitHub: https://github.com/wkm2001
-Don't hesitate to drop me a message if you have any inquiries, job offers, or just want to say hello. I look forward to connecting with you!
+	I would love to connect with you and explore potential opportunities for collaboration. Feel free to reach out to me through the following channels:
+
+	Email: wmau268@gmail.com
+	LinkedIn: https://www.linkedin.com/in/william-mau-024504266/
+	GitHub: https://github.com/wkm2001
+	Don't hesitate to drop me a message if you have any inquiries, job offers, or just want to say hello. I look forward to connecting with you!
 
 Thank you for visiting my portfolio website, and I hope you enjoy exploring my work.
 
